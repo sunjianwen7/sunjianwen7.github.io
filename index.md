@@ -1,77 +1,170 @@
-# 基于自适应频域的点云分割网络开题报告
+# 联系方式
+# curriculum vitae
 
-## I. 研究背景
+- 手机：17695445922
+- Email：sunjianwen.d@gmail.com 
+- 微信号：17695445922(清备注来意)
+##   Contact:
 
-### 1.1 什么是点云
+# 个人信息
 
-点云是三维空间中的一组点的集合，每个点包含其在三维空间中的坐标信息和可能的其他属性信息，如颜色、法向量等。点云可以看作是三维物体表面的采样结果，它是一种用于表示三维物体的常用数据结构。
+ - 孙健文/男/2000 
+ - 本科/天津理工大学
+ - 工作年限：2年
+ - Github：https://github.com/sunjianwen7
+ - 期望职位：算法工程师（SLAM and VSLAM）
+ - 期望薪资：税前月薪20k~30k
+ - 期望城市：北京 天津 上海 杭州 南京
 
-### 1.2 点云分割的意义和应用 
+- Mobile phone: 17695445922
 
-点云分割是指将点云数据中的每个点划分到不同的语义类别中，从而实现对点云数据的分析和理解。点云分割在计算机视觉、机器人导航、自动驾驶、虚拟现实等领域中都有着广泛的应用和重要意义。
+# 项目经历
+- Email： sunjianwen.d@gmail.com
 
-### 1.3 基于深度学习的点云分割网络的意义
+### 吉林大学自动驾驶小车培训项目 
+- Wechat: 17695445922 (please note the purpose)
 
-基于深度学习的点云分割网络在近年来得到了快速发展，并在点云分割任务中取得了重要的突破。传统的点云分割方法通常基于手工设计的特征和规则，难以适应复杂的场景和变化多样的数据。而基于深度学习的点云分割网络，通过学习点云数据的高层次特征，能够实现对点云数据的自动分割和分类。在近年来的研究中，基于深度学习的点云分割网络已经取得了很多成功的应用，在准确率和效率上有了显著的提升，还具有很强的鲁棒性和泛化性，并且它能够为点云数据的自动化处理和应用提供强大的支持，有助于推动点云数据在各个领域的应用和发展。
+1. 该项目主要由利用uwb定位 imu数据 毫米波预计 超声波 摄像头 数据融合 实现自动路径规划和运动控制
+2. 我在该项目 提供uwb定位算法 以及简单数据融合 并且开发各传感器节点 将精度控制在+-2cm
+3. 主要使用ROS2 有向图  uwb定位 yolo识别
 
-### 1.4 点云处理中的频域
 
-在信号处理中，频域是指信号在频率上的特征，即信号中各个频率成分的大小和相位关系。信号的频谱表示了信号在不同频率上的分布情况。在图像处理中，频域是指图像在频率上的特征，即图像中各个空间频率成分的大小和相位关系，阐述了图像中灰度值的变化速率。点云处理中，频率域可以用来分析点云的分布规律和特征，如点云的局部形状、曲率等。
+### 中汽研数字孪生沙盘项目 
+## Personal information
 
-## II. 研究现状
+1. 该项目虚拟由unity3d打造 现实由巡磁条小车检测rfid
+2. 我在该项目中 主要使用已经建设好的模型 以及组件 完成甲方的需求 例如 红绿灯控制 小车场景规划 雨天模拟 闸机控制 虚拟现实数据同步 下位小车程序算法的改进 实现了新的算法使小车转弯稳定性提高
+3. 32嵌入式开发 unity c# 有向图
 
-### 2.1 目前主流的点云分割方法的优缺点 
 
-目前主流的点云分割方法主要有基于体素网格化的方法、基于多视角投影的方法和基于逐点MLP的PointNet方法等。这些方法都存在一些局限性，如体素网格化方法对点云分辨率要求较高，并且会损失细节纹理，多视角投影无法有效处理点云的非平面形状，Pointnet对局部特征的建模能力不足，对局部细节的处理存在问题。
+### 西安地铁智能吹扫设备项目
+- Sun Jianwen / male / 2000
 
-### 2.2 频率域在点云分割中的研究现状 
+1. 项目概述 由agv搭载机械臂 搭配深度摄像机 智能吹扫地铁底部零件
+2. 该项目 由我做中控调度 控制agv小车前往指定位置 操控机械臂 利用rgbd相机 对地铁进行点云建模 处理点云后展示与前端点选零件 获取吹扫零件 利用图像识别以及点云配准 计算出零件位置 并且自动规划出吹扫动作 进行吹扫
+3. 点云处理 滤波 配准 ROS 机械臂运动规划 三维变换 三维重建 二维识别
+- Bachelor / Tianjin University of Technology
 
-频率域在点云处理中已经有一些应用，例如传统点云算法DoN(different of normals)，计算出每个点的曲率来表示点云的频率，虽然能做到大范围的分割，但是无法做到细节处理。
+- Working life: 2 years
 
-### 2.3 点云中的曲率
+# 开源项目和作品
+- Github： https://github.com/sunjianwen7
 
-本文引用DoN的中的曲率，通过多尺度法向量差分计算曲率。
+## 开源项目
+- Expected position: Algorithm Engineer (SLAM and vSLAM)
 
-### 2.4 点云频率表示的数学原理 
+  - [QT_car_animation](https://github.com/sunjianwen7/QT-interface-synchronous-32-magnetic-car-animation)：项目完成将下位小车的功能可视化以及同步
+  - [path_identification_and_planning  ](http://github.com/sunjianwen7/path_identification_and_planning  )：识别车道线并做平滑处理 决策路径
+- Expected salary: monthly salary before tax 20K ~ 30K
 
-本文中的点云频率表示为点云中的曲率，将点云从空间域变换到频率域，基于法向量差分实现。在频率域中，点云的分布规律和特征更容易分析和提取。
+## 技术文章
+- Expected cities: Beijing Tianjin Shanghai Hangzhou Nanjing
 
-## III. 研究内容和目标
+- 
 
-### 3.1 点云频率表示的特点及其在点云分割中的应用 
+  - 
 
-点云频率表示能够有效地描述点云中不同部分的分布规律，能够在点云分割中实现更准确的分类和定位。
+# 技能清单
+## Project experience
 
-### 3.2 基于点云频率的点云分割网络的设计 
+（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
 
-本文将设计一种基于点云频率的点云分割网络，通过将点云数据转换到频率域，提取点云的特征，并设计相应的网络结构，实现点云的分割。
+以下均为我熟练使用的技能
 
-### 3.3 网络训练和评估 
+- ROS开发：C++/PYTHON
+- 后端框架：Django/Flask
+- SLAM开源算法：ORB_SLAM
+- 数据库相关：MySQL/MONGO/SQLite
+- 版本管理、文档和部署工具：Git/Docker
+- 嵌入式开发：C/KEIL
+- 三方库：PCL/OPEN3D/Eigen/Opencv
+- 测试工具：POSTMAN/SOCKET_TOOOL    
+### Jilin University self driving car training project
 
-使用公开的点云数据集对设计的网络进行训练和评估，比较其与目前主流的点云分割方法的效果和性能。
 
-## IV. 研究意义和创新点
 
-### 4.1 研究意义
+1. The project mainly uses UWB positioning, IMU data, millimeter wave prediction, ultrasonic camera data fusion to realize automatic path planning and motion control
 
-本文研究的基于点云频率的点云分割网络具有实际应用价值，能够在机器人导航、自动驾驶、虚拟现实等领域中不同尺度场景均可以实现更准确和高效的点云处理和分割。
+2. In this project, I provide UWB positioning algorithm and simple data fusion, and develop each sensor node to control the accuracy within + - 2cm
 
-### 4.2 创新点和技术难点
+3. Mainly use ros2 directed graph UWB to locate Yolo recognition
 
-本文提出了一种基于点云频率的点云分割方法，相较于目前主流的点云分割方法具有更好的性能和效果，可以为点云处理领域的研究提供新的思路和方法。
 
-在点云分割深度学习网络中，并没有人准确给出点云频率定义，以及相关使用。
 
-### 4.3 研究拓展方向以及应用背景
+### China Automobile Research Institute digital twin sand table project
 
-将设计的网络应用于实际场景使用，例如无人驾驶领域中行人，车辆，房屋，等元素的分割，在室内场景中个组件的分割 推进点云领域发展。
 
-本文将算法应用于地铁底部零件自动吹扫系统，通过深度相机配准拼接获得整体地铁底部点云，通过点云分割每个零件，实现对地铁底部的自动吹扫。
 
-## V. 研究计划和进度安排
+1. The virtual project is made by unity3d, and the real project is detected by the magnetic stripe car
 
-### 5.1 研究计划 
+2. In this project, I mainly use the built models and components to meet the needs of Party A, such as traffic light control, car scene planning, simulation gate control in rainy days, virtual reality data synchronization, improvement of the algorithm of the lower car program, and new algorithm to improve the turning stability of the car
 
-3月：对点云频率表示的数学原理进行深入研究，设计基于点云频率的点云分割网络，并进行初步的实验。 4月：对设计的网络进行优化和改进，并使用公开的点云数据集进行训练和评估。 5月：实际场景测试，撰写论文并进行论文答辩。
+3. 32 embedded development unity C # digraph
 
-### 5.2 进度安排 
+
+
+### Xi'an Metro intelligent purging equipment project
+
+
+
+1. Project overview: the robot arm equipped with AGV and the depth camera are used to intelligently purge the subway bottom parts
+
+2. In this project, I do the central control dispatching, control the AGV trolley to the designated position, control the robot arm, use the rgbd camera to conduct point cloud modeling for the subway, display the point cloud, and select the parts at the front end to obtain the purge parts, use image recognition and point cloud registration to calculate the part position, and automatically plan the purge action for purging
+
+3. Point cloud processing, filtering, registration, ROS, robot arm motion planning, three-dimensional transformation, three-dimensional reconstruction, two-dimensional recognition
+
+
+
+## Open source projects and works
+
+
+
+### Open source project
+
+
+
+- [QT_car_animation]( https://github.com/sunjianwen7/QT-interface-synchronous-32-magnetic-car-animation ）: complete the project to visualize and synchronize the functions of the lower trolley
+
+- [path_identification_and_planning ]( http://github.com/sunjianwen7/path_identification_and_planning ）: identify lane lines and make smooth processing decision path
+
+
+
+### Technical article
+
+
+
+-
+
+
+
+-
+
+
+
+###  Skill list
+
+The following are my proficient skills:
+
+- ROS development: C + + / Python
+
+- Back end framework: Django / flask
+
+- Slam open source algorithm: orb_ SLAM
+
+- Database related: MySQL / Mongo / SQLite
+
+- Version management, documentation and deployment tools: git / docker
+
+- Embedded development: C / Keil
+
+- Third party Library: PCL / open3d / eigen / opencv
+
+- Test tool: postman / socket_ TOOOL
+
+---
+
+# 致谢
+## Thanks
+
+感谢您花时间阅读我的简历，期待能有机会和您共事。
+Thank you for taking the time to read my resume and look forward to working with you.
