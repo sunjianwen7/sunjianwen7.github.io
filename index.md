@@ -1,109 +1,90 @@
-# curriculum vitae
+# Curriculum Vitae
 
 ## Contact:
 
-- Mobile phone: 17695445922
-- Email： [sunjianwen@stud.tjut.edu.cn](mailto:sunjianwen@stud.tjut.edu.cn)
+- Mobile phone: 17695445922 (please note the purpose)
+- Email: [sunjianwen@stud.tjut.edu.cn](mailto:sunjianwen@stud.tjut.edu.cn)
 - Wechat: 17695445922 (please note the purpose)
 
-## Personal information
+## Personal Information
 
-- Sun Jianwen / male / 2000
-- Bachelor / Tianjin University of Technology
-- Major: Electronic information engineering
-- Working life: 2 years
-- Github： https://github.com/sunjianwen7
-- Expected position: Algorithm Engineer (Machine Learning and Deep Learning and Communication algorithm)
+- Name: Sun Jianwen
+- Gender: Male
+- Date of Birth: 2000
+- Education: Bachelor's degree
+- Major: Electronic Information Engineering
+- Graduation Year: 2022
+- GitHub: https://github.com/sunjianwen7
+- Expected Position: Algorithm Engineer (Machine Learning, Deep Learning, and Communication Algorithm)
 
-## Main subject grades
+## Main Subject Grades
 
-5G mobile network ：82
+- 5G Mobile Network: 82
+- Higher Mathematics: 97
+- Linear Algebra: 97
+- C Language: 96
+- College Physics: 94
+- Analog Electronics: 88
+- Python: 95
+- Probability Theory: 93
+- Circuit Analysis: 86
+- Circuit Analysis Complex Functions and Engineering Mathematics: 91
+- Digital Circuit: 92
+- High Frequency Electronic Circuit: 82
+- Embedded Development: 90
+- Data Communication: 88
+- Machine Learning: 90
+- TensorFlow: 97
+- Access Network Technology: 96
+- Telecommunications: 89
+- Introduction to the Internet of Things: 93
+- Optical Fiber Communication: 85
 
-higher mathematics ：97
+## Research Experience
 
-linear algebra ： 97
+### Point Cloud Segmentation Network Based on Adaptive Frequency Domain
 
-c language ：96
+- Proposed a point cloud segmentation network that inputs point cloud original data, calculates the difference of normal as the frequency, and calculates attention to weighted point feature to achieve point cloud segmentation.
 
-College Physics ：94
+- Project experience
 
-Analog Electronics ： 88
+  ### Simulated Sand Table Unmanned Driving Car
 
-Python ：95
+  - Utilized Kalman filtering, IMU, and UWB data fusion for achieving centimeter-level accuracy in indoor interference-free conditions.
+  - 使用霍尔传感器进行决策和运动算法，并使用 RGBD 相机创建密集点云图。
+  - 在这个项目中使用了 ROS 框架。
 
-probability theory ：93
+  ### 西安地铁智能净化设备项目
 
-circuit analysis ： 86
+  - 主导AGV小车中控调度、控制到指定位置。
+  - 使用RGBD相机进行点云建模和图像识别，计算地铁部件位置并规划自动清洗动作。
+  - 本项目利用点云处理、过滤、配准、ROS、机械臂运动规划、三维变换、三维重建、二维识别。
 
-Circuit Analysis Complex Functions and Engineering Mathematics：91
+  ## 开源项目和作品
 
-Digital circuit ： 92
+  ### 开源项目
 
-High frequency electronic circuit ：82
+  - [QT_car_animation](https://github.com/sunjianwen7/QT-interface-synchronous-32-magnetic-car-animation)：开发了一个项目来可视化和同步下部小车的功能。
+  - [DENSE_ORBSLAM ](https://github.com/sunjianwen7/ORB_SLAM_DENSE_BUILD): implemented dense point cloud mapping based on ORBSLAM2.
 
-Embedded Development：90
+  ### Technical articles
 
-data communication： 88
+  - [Gaussian Mixture Model-Based Registration Network for Point Clouds with Partial Overlap](https://link.springer.com/chapter/10.1007/978-3-031-15934-3_34): co-author of a technical article on point cloud registration network.
+  - [Multistage Diagnosis of Alzheimer’s Disease Based on Slice Attention Network](https://link.springer.com/chapter/10.1007/978-3-031-15919-0_22): co-author of a technical article on Alzheimer's disease diagnosis based on a slice attention network.
 
-machine learning ： 90
+  ### Skill list
 
-Tensorflow： 97
+  Proficient in the following:
 
-Access Network Technology：96
-
-Telecommunications：89
-
-Introduction to the Internet of Things ： 93
-
-Optical fiber communication： 85
-
-## research experience
-
-### Point cloud segmentation network based on adaptive frequency domain
-
-The network mainly inputs point cloud original  data, calculates the difference of normal  as the frequency, and calculates attention to weighted point feature  to achieve point cloud segmentation
-
-## Project experience
-
-These are some projects I have worked on
-
-### Simulated sand table unmanned driving car
-
-This project is based on Kalman filter to achieve IMU and UWB data fusion with an accuracy of centimeter level in indoor interference free conditions，Using the Open Source Framework ROS（Robot Operating System），Utilizing Hall sensors to return magnetic stripe data for decision-making and motion algorithms and And using RGBD cameras to create dense point cloud maps
-
-
-
-### Xi'an Metro intelligent purging equipment project
-
-1. Project overview: the robot arm equipped with AGV and the depth camera are used to intelligently purge the subway bottom parts
-2. In this project, I do the central control dispatching, control the AGV trolley to the designated position, control the robot arm, use the rgbd camera to conduct point cloud modeling for the subway, display the point cloud, and select the parts at the front end to obtain the purge parts, use image recognition and point cloud registration to calculate the part position, and automatically plan the purge action for purging
-3. Point cloud processing, filtering, registration, ROS, robot arm motion planning, three-dimensional transformation, three-dimensional reconstruction, two-dimensional recognition
-
-## Open source projects and works
-
-### Open source project
-
-- [QT_car_animation]( https://github.com/sunjianwen7/QT-interface-synchronous-32-magnetic-car-animation ）: complete the project to visualize and synchronize the functions of the lower trolley
-- [DENSE_ORBSLAM ]( https://github.com/sunjianwen7/ORB_SLAM_DENSE_BUILD）:Implementing Dense Point Cloud Mapping Based on ORBSLAM2
-
-### Technical article
-
-- [Gaussian Mixture Model-Based Registration Network for Point Clouds with Partial Overlap](https://link.springer.com/chapter/10.1007/978-3-031-15934-3_34):DOI: 10.1007/978-3-031-15934-3_34 Non lead author
-- [Multistage Diagnosis of Alzheimer’s Disease Based on Slice Attention Network](https://link.springer.com/chapter/10.1007/978-3-031-15919-0_22):DOI: 10.1007/978-3-031-15919-0_22 Non lead author
-
-### Skill list
-
-The following are my proficient skills:
-
-- Used：5G、Wi-Fi、LoRa、UWB
-- ROS development: C + + / Python
-- Back end framework: Django / flask
-- Slam open source algorithm: ORB_ SLAM NAV2
-- Database related: MySQL / Mongo / SQLite
-- Version management, documentation and deployment tools: git / docker
-- Embedded development: C / Keil
-- Third party Library: PCL / open3d / eigen / opencv
-- Test tool: postman / socket_ TOOL
+  - 5G, Wi-Fi, LoRa, UWB
+  - ROS development: C++, Python
+  - Back-end frameworks: Django, Flask
+  - SLAM open source algorithms: ORB_SLAM, NAV2
+  - Database management: MySQL, MongoDB, SQLite
+  - Version management, documentation, and deployment tools: Git, Docker
+  - Embedded development: C, Keil
+  - Third-party libraries: PCL, Open3D, Eigen, OpenCV
+  - Test tools: Postman, Socket_TOOL
 
 ------
 
