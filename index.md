@@ -1,24 +1,14 @@
-# Curriculum Vitae
-
-## Contact:
-
-- Mobile phone: 17695445922 (please note the purpose)
-- Email: [sunjianwen@stud.tjut.edu.cn](mailto:sunjianwen@stud.tjut.edu.cn)
-- Wechat: 17695445922 (please note the purpose)
-
-## Personal Information
-
-- Name: Sun Jianwen
+# Sun Jianwen
 - Gender: Male
 - Date of Birth: 2000
-- Education: Bachelor's degree
-- Major: Electronic Information Engineering
-- Graduation Year: 2022
 - GitHub: https://github.com/sunjianwen7
-- Expected Position: Algorithm Engineer (Machine Learning, Deep Learning, and Communication Algorithm)
-
-## Main Subject Grades
-
+- Email: [sunjianwen.d@gmail.com](mailto:sunjianwen.d@gmail.com)
+## EDUCATION
+### Tianjin University of Technology                                               TianJin,China
+Bachelor of Engineering,Electronic Information Engineering GPA:3.6                 2019.9-2023.7
+### Japan Advanced Institute Of Science And Technology                             ISHIKAWA,Japen
+Master of Engineering in progress,Information M1                                   2023.10-present
+## Courses
 - 5G Mobile Network: 82
 - Higher Mathematics: 97
 - Linear Algebra: 97
@@ -39,55 +29,29 @@
 - Telecommunications: 89
 - Introduction to the Internet of Things: 93
 - Optical Fiber Communication: 85
-
-## Research Experience
-
-### Point Cloud Segmentation Network Based on Adaptive Frequency Domain
-
-- Proposed a point cloud segmentation network that inputs point cloud original data, calculates the difference of normal as the frequency, and calculates attention to weighted point feature to achieve point cloud segmentation.
-
-- Project experience
-
-  ### Simulated Sand Table Unmanned Driving Car
-
-  - Utilized Kalman filtering, IMU, and UWB data fusion for achieving centimeter-level accuracy in indoor interference-free conditions.
-  - 使用霍尔传感器进行决策和运动算法，并使用 RGBD 相机创建密集点云图。
-  - 在这个项目中使用了 ROS 框架。
-
-  ### 西安地铁智能净化设备项目
-
-  - 主导AGV小车中控调度、控制到指定位置。
-  - 使用RGBD相机进行点云建模和图像识别，计算地铁部件位置并规划自动清洗动作。
-  - 本项目利用点云处理、过滤、配准、ROS、机械臂运动规划、三维变换、三维重建、二维识别。
-
-  ## 开源项目和作品
-
-  ### 开源项目
-
-  - [QT_car_animation](https://github.com/sunjianwen7/QT-interface-synchronous-32-magnetic-car-animation)：开发了一个项目来可视化和同步下部小车的功能。
-  - [DENSE_ORBSLAM ](https://github.com/sunjianwen7/ORB_SLAM_DENSE_BUILD): implemented dense point cloud mapping based on ORBSLAM2.
-
-  ### Technical articles
-
+## Thesis
+  - [Point cloud segmentation network based on adaptive frequency domain](): Undergraduate thesis, first author.
   - [Gaussian Mixture Model-Based Registration Network for Point Clouds with Partial Overlap](https://link.springer.com/chapter/10.1007/978-3-031-15934-3_34): co-author of a technical article on point cloud registration network.
   - [Multistage Diagnosis of Alzheimer’s Disease Based on Slice Attention Network](https://link.springer.com/chapter/10.1007/978-3-031-15919-0_22): co-author of a technical article on Alzheimer's disease diagnosis based on a slice attention network.
-
-  ### Skill list
-
-  Proficient in the following:
-
-  - 5G, Wi-Fi, LoRa, UWB
-  - ROS development: C++, Python
-  - Back-end frameworks: Django, Flask
-  - SLAM open source algorithms: ORB_SLAM, NAV2
-  - Database management: MySQL, MongoDB, SQLite
-  - Version management, documentation, and deployment tools: Git, Docker
-  - Embedded development: C, Keil
-  - Third-party libraries: PCL, Open3D, Eigen, OpenCV
-  - Test tools: Postman, Socket_TOOL
+## Experience
+Some of the projects and topics I have completed, in collaboration with my laboratory
+ - Intelligent Driving Vehicle Training Programme             China Automotive Technology&Research Center Co. Ltd
+  Developed sensor development based on ROS framework, data fusion positioning algorithm for UWB and IMU, magnetic sensor homing algorithm, navigation algorithm based on directed graph.
+ - Development of automatic blowing equipment                 Xi'an Metro Line 16
+  Create a point cloud model based on the depth camera scan, segment and classify the point cloud as well as position it, and call the robotic arm to perform the action.
+ - The ever-changing deer AGV                                 Xiamen Intretech Inc.
+  Development of speed smoothing algorithms based on ROS2 framework, parameter tuning, etc.
+## Skill list
+- 5G, Wi-Fi, LoRa, UWB
+- ROS development: C++, Python
+- Deep Learning: Pytorch
+- Back-end frameworks: Django, Flask
+- SLAM open source algorithms: ORB_SLAM, NAVIGATION2，CARTOGRAPHER
+- Database management: MySQL, MongoDB, SQLite
+- Version management, documentation, and deployment tools: Git, Docker
+- Embedded development: C, Keil
+- Third-party libraries: PCL, Open3D, Eigen, OpenCV
+- Test tools: Postman, Socket_TOOL
 
 ------
 
-## Thanks
-
-Thank you for watching and sincerely hope that you can accept me
