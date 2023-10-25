@@ -2,7 +2,7 @@
 # Sun Jianwen
 - Gender: Male
 - Date of Birth: 2000
-- GitHub: https://github.com/sunjianwen7
+- GitHub: [https://github.com/sunjianwen7](https://github.com/sunjianwen7)
 - Email: [sunjianwen.d@gmail.com](mailto:sunjianwen.d@gmail.com)
 
 # EDUCATION
