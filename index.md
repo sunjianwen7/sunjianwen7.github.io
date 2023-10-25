@@ -36,7 +36,7 @@
 - Optical Fiber Communication: 85
 
 # THESIS
-  - [Point cloud segmentation network based on adaptive frequency domain](): Undergraduate thesis, first author.
+  - [Point cloud segmentation network based on adaptive frequency domain](): Bachelor's thesis.
   - [Gaussian Mixture Model-Based Registration Network for Point Clouds with Partial Overlap](https://link.springer.com/chapter/10.1007/978-3-031-15934-3_34): co-author of a technical article on point cloud registration network.
   - [Multistage Diagnosis of Alzheimer’s Disease Based on Slice Attention Network](https://link.springer.com/chapter/10.1007/978-3-031-15919-0_22): co-author of a technical article on Alzheimer's disease diagnosis based on a slice attention network.
 
