@@ -3,12 +3,12 @@
 - Date of Birth: 2000
 - GitHub: https://github.com/sunjianwen7
 - Email: [sunjianwen.d@gmail.com](mailto:sunjianwen.d@gmail.com)
-## EDUCATION
-### - Tianjin University of Technology                                               TianJin,China
+# EDUCATION
+## - Tianjin University of Technology                                               TianJin,China
 Bachelor of Engineering,Electronic Information Engineering GPA:3.6                 2019.9-2023.7
-### - Japan Advanced Institute Of Science And Technology                             ISHIKAWA,Japen
+## - Japan Advanced Institute Of Science And Technology                             ISHIKAWA,Japen
 Master of Engineering in progress,Information M1                                   2023.10-present
-## COUYSES
+# COUYSES
 - 5G Mobile Network: 82
 - Higher Mathematics: 97
 - Linear Algebra: 97
@@ -29,11 +29,11 @@ Master of Engineering in progress,Information M1                                
 - Telecommunications: 89
 - Introduction to the Internet of Things: 93
 - Optical Fiber Communication: 85
-## THESIS
+# THESIS
   - [Point cloud segmentation network based on adaptive frequency domain](): Undergraduate thesis, first author.
   - [Gaussian Mixture Model-Based Registration Network for Point Clouds with Partial Overlap](https://link.springer.com/chapter/10.1007/978-3-031-15934-3_34): co-author of a technical article on point cloud registration network.
   - [Multistage Diagnosis of Alzheimer’s Disease Based on Slice Attention Network](https://link.springer.com/chapter/10.1007/978-3-031-15919-0_22): co-author of a technical article on Alzheimer's disease diagnosis based on a slice attention network.
-## EXPERIENCE
+# EXPERIENCE
 Some of the projects and topics I have completed, in collaboration with my laboratory
  - Intelligent Driving Vehicle Training Programme             China Automotive Technology&Research Center Co. Ltd
   Developed sensor development based on ROS framework, data fusion positioning algorithm for UWB and IMU, magnetic sensor homing algorithm, navigation algorithm based on directed graph.
@@ -41,10 +41,10 @@ Some of the projects and topics I have completed, in collaboration with my labor
   Create a point cloud model based on the depth camera scan, segment and classify the point cloud as well as position it, and call the robotic arm to perform the action.
  - The ever-changing deer AGV                                 Xiamen Intretech Inc.
   Development of speed smoothing algorithms based on ROS2 framework, parameter tuning, etc.
-## RESEARCH DIRECTION
+# RESEARCH DIRECTION
   AI Empowered  Multiple Access for Ultra Low-latency Communication Networks
   Specifically, Multi-agent in Deep Reinforcement Learning,Forward Gradient Learning, Learn human behavior intervention on network traffic usage
-## Skill list
+# Skill list
 - 5G, Wi-Fi, LoRa, UWB
 - ROS development: C++, Python
 - Deep Learning: Pytorch
