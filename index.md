@@ -42,15 +42,15 @@
 
 # EXPERIENCE
 Some of the projects and topics I have completed, in collaboration with my laboratory
- - Intelligent Driving Vehicle Training Programme             China Automotive Technology&Research Center Co. Ltd
-  Developed sensor development based on ROS framework, data fusion positioning algorithm for UWB and IMU, magnetic sensor homing algorithm, navigation algorithm based on directed graph.
- - Development of automatic blowing equipment                 Xi'an Metro Line 16
-  Create a point cloud model based on the depth camera scan, segment and classify the point cloud as well as position it, and call the robotic arm to perform the action.
- - The ever-changing deer AGV                                 Xiamen Intretech Inc.
-  Development of speed smoothing algorithms based on ROS2 framework, parameter tuning, etc.
+ - Intelligent Driving Vehicle Training Programme-China Automotive Technology&Research Center Co. Ltd\
+   Developed sensor development based on ROS framework, data fusion positioning algorithm for UWB and IMU, magnetic sensor homing algorithm, navigation algorithm based on directed graph.
+ - Development of automatic blowing equipment-Xi'an Metro Line 16\
+   Create a point cloud model based on the depth camera scan, segment and classify the point cloud as well as position it, and call the robotic arm to perform the action.
+ - The ever-changing deer AGV-Xiamen Intretech Inc.\
+   Development of speed smoothing algorithms based on ROS2 framework, parameter tuning, etc.
 
 # RESEARCH DIRECTION
-  AI Empowered  Multiple Access for Ultra Low-latency Communication Networks
+  AI Empowered  Multiple Access for Ultra Low-latency Communication Networks\
   Specifically, Multi-agent in Deep Reinforcement Learning,Forward Gradient Learning, Learn human behavior intervention on network traffic usage
 
 # Skill list
