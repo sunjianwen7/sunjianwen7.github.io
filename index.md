@@ -3,13 +3,15 @@
 - Date of Birth: 2000
 - GitHub: https://github.com/sunjianwen7
 - Email: [sunjianwen.d@gmail.com](mailto:sunjianwen.d@gmail.com)
+
 # EDUCATION
-- Tianjin University of Technology 
- 2019.9-2023.7 TianJin,China
-Bachelor of Engineering,Electronic Information Engineering GPA:3.6                
-- Japan Advanced Institute Of Science And Technology
- 2023.10-present ISHIKAWA,Japen
-Master of Engineering in progress,Information M1                                  
+- Tianjin University of Technology\
+ 2019.9-2023.7 TianJin,China\
+ Bachelor of Engineering,Electronic Information Engineering GPA:3.6
+- Japan Advanced Institute Of Science And Technology\
+ 2023.10-present ISHIKAWA,Japen\
+ Master of Engineering in progress,Information M1
+                                 
 # COURSES
 - 5G Mobile Network: 82
 - Higher Mathematics: 97
